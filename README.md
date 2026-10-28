@@ -141,7 +141,7 @@ The tests cover the HTTP layer and the prompt template with `torch`/`unsloth` st
 
 | Name | Role (as listed in the app) |
 |---|---|
-| MD Mahedul Hasan Mahe | Lead Full-Stack Developer: frontend architecture, FastAPI backend, integration and deployment |
+| MD Mahedul Hasan Mahe | Lead Full-Stack Developer: frontend architecture,dataset curation, FastAPI backend, integration and deployment |
 | Sumaiya Afroz Sayka | AI & Model Researcher: dataset curation, model fine-tuning, Marma tokenizer work |
 | Meherunessa Ritu | AI & Model Researcher: dataset curation, model fine-tuning, Marma tokenizer work |
 | Amena Akter | Backend Engineer: API integration support, stability testing |
